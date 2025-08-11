@@ -1,1 +1,1 @@
-
+print("Hello, bioinformatics world!")
